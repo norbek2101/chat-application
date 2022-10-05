@@ -4,4 +4,7 @@ channels==3.0.5
 channels-redis==3.4.1
 redis-server==6.0.9
 djangorestframework
-
+drf-yasg==1.21.4
+dj-rest-auth==2.2.5
+djangorestframework-simplejwt==5.2.1
+django-jazzmin==2.5.0
